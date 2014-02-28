@@ -1,4 +1,4 @@
-unbelt.github.io
+unbelt.github.com
 ================
 
 My GitHub Page
